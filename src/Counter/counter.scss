@@ -1,0 +1,14 @@
+.counter{
+  font-size: 36pt;
+
+  div:first-child{
+    font-size: 1.6rem;/*root의 폰트 사이즈를 기준으로한 em = rem*/
+  }
+  input{
+    font-size: 2em;
+  }
+
+  button{
+    font-size: 1.6em;
+  }
+}
